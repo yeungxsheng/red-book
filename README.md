@@ -15,6 +15,11 @@ dependencies:
 
 ## 开发进度图
 <img src="http://106.52.133.67:9400/apk/red-book/Screenshot_2020-08-19-22-36-18-83.jpg" width="300"/>
+
 <img src="http://106.52.133.67:9400/apk/red-book/Screenshot_2020-08-19-22-36-08-74.jpg" width="300 />
+                                                                                               
 <img src="http://106.52.133.67:9400/apk/red-book/Screenshot_2020-08-19-22-27-21-49_e32fde562e780b7.jpg"  width="300/>
+
 <img src="http://106.52.133.67:9400/apk/red-book/Screenshot_2020-08-19-22-27-14-18_e32fde562e780b7.jpg" width="300 />
+                                                                                                               
+                                                                                                               
