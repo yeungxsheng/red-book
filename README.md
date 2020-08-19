@@ -14,6 +14,8 @@ dependencies:
 ```
 
 ## 开发进度图
+
+
 <img src="http://106.52.133.67:9400/apk/red-book/Screenshot_2020-08-19-22-36-18-83.jpg" width="300"/>
 
 <img src="http://106.52.133.67:9400/apk/red-book/Screenshot_2020-08-19-22-36-08-74.jpg" width="300 />
