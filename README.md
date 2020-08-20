@@ -2,6 +2,25 @@
 
 使用Flutter框架开发的App,参照小红书;目前完成度不算很高
 
+### 获取项目
+`git clone https://github.com/yeungxsheng/red-book.git`
+
+`cd red-book`
+
+### 安装依赖
+`flutter get`
+
+### 运行
+`flutter run`
+
+### 构建打包
+```
+// 安卓
+flutter build apk
+// ios
+flutter build ios
+```
+
 使用到的依赖
 ```
 dependencies:
