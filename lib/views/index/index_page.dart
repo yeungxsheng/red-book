@@ -11,7 +11,7 @@ class IndexPage extends StatefulWidget {
 }
 
 class _IndexPageState extends State<IndexPage> {
-  var _current = 0;
+  var _current = 3;
 
   List<Widget> _list;
   @override
